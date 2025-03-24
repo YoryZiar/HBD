@@ -154,14 +154,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Selamat ulang tahun ya! Semoga hari ini secerah ruang perawatan yang baru dibersihkan,", "sebahagia menemukan vena yang pas saat pasang infus,", "dan seberuntung pasien yang sembuh tanpa drama.", "Jangan lupa, hidup ini seperti jadwal jaga malam, kadang melelahkan, tapi selalu ada kejutan menarik." , "Semoga dengan bertambahnya usia, kamu semakin kuat menghadapi pasien yang rewel, dan selalu sehat seperti pasien yang baru saja cek laboratorium!"],
+  strings: ["Selamat ulang tahun ya! 🎉 Semoga hari ini secerah ruang perawatan yang baru dibersihkan 🧹", "Sebahagia menemukan vena yang pas saat pasang infus 💉", "dan Seberuntung pasien yang sembuh tanpa drama 🎞️", "Jangan lupa, hidup ini seperti jadwal jaga malam 🌃 kadang melelahkan 🥱 tapi selalu ada kejutan menarik 😁" , "Semoga dengan bertambahnya usia, kamu semakin kuat menghadapi pasien yang rewel, dan selalu sehat seperti pasien yang baru saja cek laboratorium!"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Maaf ya 🙏 kalo kata-kata di lembar sebelumnya kurang ngena, saya gak pinter buat kalimat soalnya 😅", " ", "barakallah fi umrik, tapi yang jelas saya doain semoga sehat selalu, apa yang di cita - citakan selama ini terkabul, serta dapat membantu dan memberikan manfaat bagi banyak orang", " ", "- Wish all you the best"],
+  strings: ["Maaf ya 🙏 kalo kata-katanya kurang ngena, saya gak pinter buat kalimat soalnya 😅", " ", "Saya doain semoga sehat selalu, apa yang di cita - citakan selama ini terkabul, serta dapat membantu dan memberikan manfaat bagi banyak orang", " ", "- Barakallah Fii Umrik"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Sekian ucapan singkat dari saya dan terimaka kasih ☺️🙏"],
+  strings: ["Sekian ucapan singkat dari saya dan terimaka kasih udah di baca ☺️🙏"],
   startDelay: 2000,
   speed: 150,
   loop: false,
