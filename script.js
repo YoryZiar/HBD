@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Maaf ya 🙏 kalo kata-kata di lembar sebelumnya kurang ngena, saya gak pinter buat kalimat soalnya 😅", " ", "barakallah fi umrik, tapi yang jelas saya doain semoga sehat selalu, apa yang di cita - citakan selama ini terkabul, dan dapat membantu dan memberikan manfaat bagi banyak orang", " ", "- Wish all you the best"],
+  strings: ["Maaf ya 🙏 kalo kata-kata di lembar sebelumnya kurang ngena, saya gak pinter buat kalimat soalnya 😅", " ", "barakallah fi umrik, tapi yang jelas saya doain semoga sehat selalu, apa yang di cita - citakan selama ini terkabul, serta dapat membantu dan memberikan manfaat bagi banyak orang", " ", "- Wish all you the best"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["Sekian ucapan singkat dari saya dan terimaka kasih ☺️🙏"],
   startDelay: 2000,
   speed: 150,
   loop: false,
