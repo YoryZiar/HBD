@@ -171,8 +171,7 @@ new TypeIt("#teks2", {
 new TypeIt("#trims", {
   strings: ["Sekian dan Terima Kasih"],
   startDelay: 2000,
-  speed: 150,
-  loop: false,
+  speed: 75,
   waitUntilVisible: true,
 }).go();
 
